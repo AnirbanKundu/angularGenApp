@@ -1,0 +1,11 @@
+{
+     "INTRO_LABEL_H1": "'Allo, 'Allo!!",
+	 "INTRO_LABEL_H2" : "APP created using ng-translate. It follows lazy loading of the translation files.",
+	 "MAIN_BUTTON_TEXT1" : "Splendid!",
+	 "VARIABLE_REPLACEMENT1" : "This paragraph is created using {{LANGUAGE}}",
+	 "VARIABLE_REPLACEMENT2" : "This paragraph from Javascript side.",
+	 "ROUTE_HOME": "Home",
+	 "ROUTE_ABOUT": "About",
+	 "ROUTE_CONTACT": "Contact",
+	 "HOME_HEADER" : "angularappGen"
+}   
