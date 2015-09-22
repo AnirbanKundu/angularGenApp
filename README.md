@@ -5,8 +5,8 @@ This application is created using Yeoman angular generator. Application demostra
 
 Download the application using following : 
 
-~ git clone https://github.com/AnirbanKundu/angularGenApp.git
-~cd angularDemos
-~npm install 
-~bower install
-~ grunt serve 
+###### `git clone https://github.com/AnirbanKundu/angularGenApp.git`
+###### `cd angularDemos`
+###### `npm install`
+###### `bower install`
+###### `grunt serve` 
